@@ -1,5 +1,6 @@
 import { useRef, useState, useEffect } from 'react';
-import mapboxgl, { LngLatLike } from 'mapbox-gl'
+//@ts-ignore
+import mapboxgl from '!mapbox-gl' // eslint-disable-line import/no-webpack-loader-syntax
 import bbox from '@turf/bbox';
 import 'mapbox-gl/dist/mapbox-gl.css';
 
