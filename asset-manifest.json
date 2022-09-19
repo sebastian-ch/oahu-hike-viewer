@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oahu-hike-viewer/static/css/main.b64ed51e.css",
+    "main.js": "/oahu-hike-viewer/static/js/main.7af6d66f.js",
+    "index.html": "/oahu-hike-viewer/index.html",
+    "main.b64ed51e.css.map": "/oahu-hike-viewer/static/css/main.b64ed51e.css.map",
+    "main.7af6d66f.js.map": "/oahu-hike-viewer/static/js/main.7af6d66f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b64ed51e.css",
+    "static/js/main.7af6d66f.js"
+  ]
+}
